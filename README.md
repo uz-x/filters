@@ -9,6 +9,7 @@ Place your target image in the same directory as the Python file, and run it.
 ## What filters are there?
 
 These are all the current filters:  
+  
 **bw:** Only black and white. No grays.  
 **invert:** Inverts all colors.  
 **0s:** No saturation (bw but with grays).  
