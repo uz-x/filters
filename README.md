@@ -1,4 +1,4 @@
-# filters
+# pyfilters
 
 Adding filters to images in Python with the Pillow library.
 
