@@ -30,3 +30,19 @@ If you pick pixel:
 ```
 Pixelation level: (If you write 20, the pixels will look like 20x20 squares. It does not resize the actual image.)
 ```
+
+## Will there be a library soon?
+
+Hopefully.  
+
+## How did you make this?
+
+These filters are all calculated by me. Each image starts from an entirely blank canvas and it fills in every single pixel one-by-one.
+
+### bw
+
+The black and white filter uses the same system as [my other website](https://testing.hrant.repl.co/bright-or-dark/) which uses RGB values to figure out if a color is light or dark. You can see the calculations at the website.
+
+### invert
+
+...
