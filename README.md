@@ -1,8 +1,8 @@
 # filters
 
-Adding effects to images in Python with the Pillow library.
+Adding filters to images in Python with the Pillow library.
 
-## How to how effects picture how?
+## How to how filters picture how?
 
 Place your target image in the same directory as the Python file, and run it.
 
